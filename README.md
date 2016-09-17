@@ -1,5 +1,5 @@
 # Elm-Paint
-Just a small work in progress of a paint application written in Elm.
+Just a small work in progress of a paint application written in [Elm](http://elm-lang.org/).
 
 To compile, download Elm and run elm-compiler with the filename.
 
